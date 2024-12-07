@@ -1,0 +1,17 @@
+These example 7 images represent
+
+Homogeneous
+DFS
+Cetromere
+Speckled
+Nuclear dots
+Nucleolar
+Nuclear envelope
+
+patterns respectively.
+
+
+
+ 
+
+
