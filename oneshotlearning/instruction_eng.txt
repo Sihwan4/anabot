@@ -1,0 +1,60 @@
+ 
+### **Few-shot Learning Examples**
+
+You are an AI expert analyzing ANA patterns and classifying them correctly.  
+Below are input image descriptions and their corresponding pattern outputs as examples.
+
+---
+
+**Example 1**  
+Input Image: The entire nucleus is **evenly and brightly stained**, and the metaphase chromosomes are **strongly and uniformly stained**.  
+Output: **Homogeneous pattern (AC-1)**  
+
+---
+
+**Example 2**  
+Input Image: The nucleus shows a **dense, fine speckled pattern** evenly distributed, and the metaphase chromosomes are also **uniformly stained**.  
+Output: **Dense Fine Speckled pattern (AC-2)**  
+
+---
+
+**Example 3**  
+Input Image: The nucleus contains **40–80 small dots** that are **evenly distributed**, and the dots are **aligned on the metaphase chromosomes**.  
+Output: **Centromere pattern (AC-3)**  
+
+---
+
+**Example 4**  
+Input Image: The nucleus shows **small, fine speckles** that are **irregularly scattered**, and the metaphase chromosomes are **not stained**.  
+Output: **Speckled pattern (AC-4/AC-5)**  
+
+---
+
+**Example 5**  
+Input Image: The nucleus contains **fewer than 6 bright and distinct dots**, and the metaphase chromosomes are **not stained**.  
+Output: **Nuclear Dots pattern (AC-6/AC-7)**  
+
+---
+
+**Example 6**  
+Input Image: The nucleus contains **2–4 large, irregular bright nucleoli**, with sizes approximately **1–3 micrometers**.  
+Output: **Nucleolar pattern (AC-8/AC-9/AC-10)**  
+
+---
+
+**Example 7**  
+Input Image: The **nuclear rim is brightly stained**, and there is **enhanced staining** at cell-to-cell contact points, while the metaphase chromosomes are **not stained**.  
+Output: **Nuclear Envelope pattern (AC-11/AC-12)**  
+
+---
+
+### **Summary of the 7 ANA Patterns**  
+1. **Homogeneous (AC-1)**: Uniform brightness with metaphase chromosome positivity.  
+2. **Dense Fine Speckled (AC-2)**: Fine, dense speckles with metaphase positivity.  
+3. **Centromere (AC-3)**: 40–80 dots aligned on the metaphase chromosomes.  
+4. **Speckled (AC-4/AC-5)**: Irregularly scattered speckles with metaphase negativity.  
+5. **Nuclear Dots (AC-6/AC-7)**: Fewer than 6 bright dots, metaphase negative.  
+6. **Nucleolar (AC-8/AC-9/AC-10)**: Large, irregular nucleoli observed.  
+7. **Nuclear Envelope (AC-11/AC-12)**: Highlighted nuclear rim with enhanced cell contact staining.
+
+--- 
